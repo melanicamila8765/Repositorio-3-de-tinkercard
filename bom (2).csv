@@ -1,0 +1,6 @@
+﻿Nombre,Cantidad,Componente
+"R1, R2, R3",3,"220 Ω Resistencia"
+"D1, D2, D3",3,"Rojo LED"
+"1",1," Placa de pruebas pequeña"
+"U1",1," Arduino Uno R3"
+"U2",1," Sensor de temperatura [TMP36]"
